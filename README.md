@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iquesambi
 - 👀 I’m interested in Drinks, Design and technology
 - 🌱 I’m currently learning Node.js
- 💞️ I’m looking to collaborate on Creative coding and creative tech
+- 💞️ I’m looking to collaborate on Creative coding and creative tech
 - 📫 How to reach me
 
 <!---
